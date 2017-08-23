@@ -1,2 +1,2 @@
 # talkingClock
-Deneme deposu
+İngilizce saati söyleyen bir saat programı
